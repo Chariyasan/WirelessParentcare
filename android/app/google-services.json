@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869583156974",
+    "firebase_url": "https://locationfire-e8def-default-rtdb.firebaseio.com",
+    "project_id": "locationfire-e8def",
+    "storage_bucket": "locationfire-e8def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869583156974:android:c65ad9a80bb70e3c85a5ff",
+        "android_client_info": {
+          "package_name": "com.example.parentcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869583156974-jdrr344qp9vde72oa9h9nip7thak6mer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_jNXYAsqWYON5PgeyF_LpNCjSurFnqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869583156974-jdrr344qp9vde72oa9h9nip7thak6mer.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869583156974-20fkmf07fb1bovdpsn50ihd14bepr4vo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wireless.project.parentcare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
